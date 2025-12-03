@@ -3,7 +3,7 @@
     "id": 1,
     "image": "429.png",
     "name": "名前｜パンクス",
-    "gender": "性別｜男の子",
+    "gender": "性別｜男",
     "bday": "誕生日｜6/9",
     "phrase": "口癖｜ウス"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "image": "4419.png",
     "name": "名前｜ゆうたろう",
-    "gender": "性別｜男の子",
+    "gender": "性別｜男",
     "bday": "2/26",
     "phrase": "口癖｜?"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "image": "444.png",
     "name": "名前｜デジャネイロ",
-    "gender": "性別｜女の子",
+    "gender": "性別｜女",
     "bday": "誕生日｜9/10",
     "phrase": "口癖｜リン"
   },
@@ -33,18 +33,18 @@
   },
   {
     "id": 5,
-    "image": "",
-    "name": "",
-    "gender": "",
-    "bday": "",
-    "phrase": ""
+    "image": "214.png",
+    "name": "名前｜ラケット",
+    "gender": "性別｜男",
+    "bday": "誕生日｜5/1",
+    "phrase": "?"
   },
   {
     "id": 6,
     "image": "",
-    "name": "",
-    "gender": "",
-    "bday": "",
-    "phrase": ""
+    "name": "名前｜シャンティ",
+    "gender": "性別｜女",
+    "bday": "誕生日｜8/9",
+    "phrase": "口癖｜だってば"
   }
 ]
