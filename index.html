@@ -89,7 +89,7 @@
         cardsEl.appendChild(el);
       });
     }
-
+    data.sort((a,b) => a.id - b.id);
     loadData().then(render);
   </script>
 </body>
