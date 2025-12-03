@@ -2,17 +2,17 @@
   {
     "id": 1,
     "image": "429.png",
-    "name": "パンクス",
-    "gender": "男の子",
-    "bday": "6/9",
-    "phrase": "ウス"
+    "name": "名前｜パンクス",
+    "gender": "性別｜男の子",
+    "bday": "誕生日｜6/9",
+    "phrase": "口癖｜ウス"
   },
   {
     "id": 2,
-    "image": "",
-    "name": "",
-    "gender": "",
-    "bday": "",
+    "image": "4419",
+    "name": "名前｜ゆうたろう",
+    "gender": "性別｜男の子",
+    "bday": "2/26",
     "phrase": ""
   },
   {
